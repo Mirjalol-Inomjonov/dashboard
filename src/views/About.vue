@@ -23,6 +23,7 @@
 
 @media screen and (max-width:576px) {
   .about {
+    margin-top: 100px;
     .title {
       font-size: 15px;
     }

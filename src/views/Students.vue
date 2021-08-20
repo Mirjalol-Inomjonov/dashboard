@@ -107,6 +107,9 @@ export default {
 }
 
 @media screen and (max-width: 576px) {
+  .table-wrapper {
+  margin-top: 90px;
+}
   .title-md {
     font-size: 35px;
   }

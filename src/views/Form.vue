@@ -237,6 +237,7 @@ export default {
 
 @media screen and (max-width: 576px) {
   .form-user {
+    margin-top: 100px;
     display: grid;
     grid-template-columns: 1fr;
   }
