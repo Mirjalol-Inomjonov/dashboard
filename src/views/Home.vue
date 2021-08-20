@@ -74,11 +74,14 @@ export default {
 </script>
 
 <style lang="scss">
+.home {
+  margin-top: 105px;
+}
 .cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 30px;
-  margin: 90px 0 25px 0;
+  margin: 25px 0;
 }
 
 .btn {
@@ -121,6 +124,7 @@ export default {
 
 @media screen and (max-width: 576px) {
   .home {
+    margin-top: 85px;
     margin-bottom: 100px;
   }
   .cards {
