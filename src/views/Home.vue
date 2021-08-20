@@ -78,7 +78,7 @@ export default {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 30px;
-  margin: 25px 0;
+  margin: 90px 0 25px 0;
 }
 
 .btn {
