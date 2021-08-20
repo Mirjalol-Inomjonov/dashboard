@@ -51,7 +51,7 @@ export default {
   overflow: hidden;
   background-color: #6b705c;
   margin-bottom: 25px;
-  position: sticky;
+  position: fixed;
   width: 100%;
   top: 0;
   z-index: 25;
