@@ -162,6 +162,7 @@ export default {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 25px;
+  margin-top: 125px;
 }
 
 .form {

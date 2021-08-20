@@ -15,6 +15,7 @@
 
 <style lang="scss">
 .about {
+  margin-top: 115px;
   .title {
     margin-top: 65px;
   }

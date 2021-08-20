@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>
+    <div class="table-wrapper">
       <h1 class="title title-md">All Students</h1>
       <table class="table">
         <thead>
@@ -66,6 +66,10 @@ export default {
 </script>
 
 <style lang="scss">
+
+.table-wrapper {
+  margin-top: 110px;
+}
 .table {
   width: 100%;
   border-collapse: collapse;
